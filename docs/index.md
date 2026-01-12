@@ -1,4 +1,4 @@
-🏥 # HealthcareText ⌨️
+🏥 HealthcareText ⌨️
 
 # Healthcare Text Automation for Professionals
 
@@ -6,7 +6,7 @@ HealthcareText is a powerful command-line tool designed to streamline text proce
 
 With the growing volume of medical documentation, maintaining clarity, privacy, and consistency is critical. MedText automates common text processing tasks, allowing professionals to focus on patient care and data analysis rather than manual editing.
 
-🧑‍💻 # Key Features
+🧑‍💻 Key Features
 
 - Medical Abbreviation Expansion
 Medical notes are often filled with abbreviations and shorthand. MedText automatically expands these abbreviations into full terms, improving readability and reducing the risk of misinterpretation.
